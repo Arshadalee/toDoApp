@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "create": "^0.0.2",
+    "create-react-app": "^5.0.1",
+    "todo": "^1.1.0",
+    "vite": "^5.2.11"
+  }
+}
